@@ -1,0 +1,323 @@
+[
+    {
+        "__comment": "Hollywood"
+    },
+    {
+        "id": 1,
+        "name": "The Avengers",
+        "category_id": 1,
+        "age": "5+",
+        "image": "The-Avengers-2012.png",
+        "year": "2012",
+        "Genres": "Action/Sci-fi",
+        "info": "Avengers is a popular movie franchise that originated in 2012 with the release of The Avengers film."
+    },
+    {
+        "id": 1,
+        "name": "Avengers: Age of Ultron",
+        "category_id": 1,
+        "age": "5+",
+        "image": "Avengers Age of Ultron 2015.png",
+        "year": "2015",
+        "Genres": "Action/Sci-fi",
+        "info": "Avengers: Age of Ultron is a 2015 superhero film."
+    },
+    {
+        "id": 1,
+        "name": "Avengers: Infinity War 2018",
+        "category_id": 1,
+        "age": "5+",
+        "image": "Avengers Infinity War 2018.png",
+        "year": "2018",
+        "Genres": "Action/Sci-fi",
+        "info": "Avengers: Infinity War is a 2018 superhero film directed by Anthony and Joe Russo and produced by Marvel Studios."
+    },
+    {
+        "id": 1,
+        "name": "Avengers: Endgame 2019",
+        "category_id": 1,
+        "age": "5+",
+        "image": "Avengers Endgame 2019.png",
+        "year": "2019",
+        "Genres": "Action/Sci-fi",
+        "info": " Avengers: Endgame is a 2019 superhero film directed by Anthony and Joe Russo. It is the sequel to  Avengers: Infinity War and the 22nd film in the Marvel Cinematic Universe (MCU)."
+    },
+
+ 
+
+    {
+        "__comment": "Bollywood"
+    },
+    {
+        "id": 2,
+        "name": "OMG: Oh My God! 2012",
+        "category_id": 2,
+        "age": "5+",
+        "image": "OMG.png",
+        "year": "2012",
+        "Genres": "Comedy",
+        "info": " OMG is an initialism for Oh My God!, which is often used as an expression of surprise, shock, or disbelief."
+    },
+    {
+        "id": 2,
+        "name": "De Dana Dan 2009",
+        "category_id": 2,
+        "age": "5+",
+        "image": "De Dana Dan 2009.png",
+        "year": "2009",
+        "Genres": "Comedy",
+        "info": "De Dana Dan (2009) Is A Comedy Hindi Film Starring Akshay Kumar,Suniel Shetty,Katrina Kaif,Sameera Reddy,Paresh Rawal,Shakti Kapoor In The Lead Roles."
+    },
+    {
+        "id": 2,
+        "name": "K.G.F: Chapter 1 2018",
+        "category_id": 2,
+        "age": "5+",
+        "image": "K.G.F: Chapter 1 2018.png",
+        "year": "2018",
+        "Genres": "Drama/Action",
+        "info": "In the 1970s, a gangster named Rocky goes undercover as a slave to assassinate the owner of a notorious gold mine known as the K.G.F.In the 1970s."
+    },
+    {
+        "id": 2,
+        "name": "Pari 2018",
+        "category_id": 2,
+        "age": "5+",
+        "image": "Pari 2018.png",
+        "year": "2018",
+        "Genres": "Horror",
+        "info": "Pari ( transl. Fairy) is a 2018 Indian supernatural horror film directed by Prosit Roy."
+    },
+
+
+ 
+    {
+        "__comment": "K-World"
+    },
+    {
+        "id": 3,
+        "name": "King the Land 2023",
+        "category_id": 3,
+        "age": "12+",
+        "image": "King the Land 2023.png",
+        "year": "2023",
+        "Genres": "Rom-com",
+        "info": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand."
+    },
+    {
+        "id": 3,
+        "name": "Big Mouth 2022",
+        "category_id": 3,
+        "age": "12+",
+        "image": "Big Mouth 2022.png",
+        "year": "2022",
+        "Genres": "Crime ",
+        "info": "Big Mouth is a 2022 South Korean television series starring Lee Jong-suk, Im Yoon-ah, and Kim Joo-hun."
+    },
+    {
+        "id": 3,
+        "name": "Crash Landing on You 2019",
+        "category_id": 3,
+        "age": "12+",
+        "image": "Crash Landing on You 2019.png",
+        "year": "2019",
+        "Genres": "Rom-com",
+        "info": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide."
+    },
+    {
+        "id": 3,
+        "name": "I'm Not a Robot 2017",
+        "category_id": 3,
+        "age": "12+",
+        "image": "I'm Not a Robot 2017.png",
+        "year": "2017",
+        "Genres": "Sci-fi",
+        "info": "I'm Not a Robot is a South Korean television series starring Yoo Seung-ho, Chae Soo-bin, and Um Ki-joon."
+    },
+
+ 
+
+    {
+        "__comment": "C-World"
+    },
+    {
+        "id": 4,
+        "name": "Infernal Affairs 2002",
+        "category_id": 4,
+        "age": "5+",
+        "image": "Infernal Affairs 2002.png",
+        "year": "2002",
+        "Genres": "Action/Crime",
+        "info": "A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.."
+    },
+    {
+        "id": 4,
+        "name": "House of Flying Daggers 2004",
+        "category_id": 4,
+        "age": "5+",
+        "image": "House of Flying Daggers 2004.png",
+        "year": "2004",
+        "Genres": "Action/Adventure",
+        "info": "A romantic police captain breaks a beautiful member of a rebel group out of prison to help her rejoin her fellows, but things are not what they seem."
+    },
+    {
+        "id": 4,
+        "name": "Fearless 2006",
+        "category_id": 4,
+        "age": "5+",
+        "image": "Fearless 2006.png",
+        "year": "2006",
+        "Genres": "Action",
+        "info": "A biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation."
+    },
+    {
+        "id": 4,
+        "name": "Red Cliff 2008",
+        "category_id": 4,
+        "age": "5+",
+        "image": "Red Cliff 2008.png",
+        "year": "2008",
+        "Genres": "Horror",
+        "info": "The first chapter of a two-part story centered on a battle fought in China's Three Kingdoms period (220-280 A.D.)."
+    },
+
+    
+
+
+    {
+        "__comment": "J-World"
+    },
+    {
+        "id": 5,
+        "name": "The Grudge 2004",
+        "category_id": 5,
+        "age": "13+",
+        "image": "The Grudge 2004.png",
+        "year": "2004",
+        "Genres": "Horror",
+        "info": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim."
+    },
+    {
+        "id": 5,
+        "name": "The Grudge 2 2006",
+        "category_id": 5,
+        "age": "13+",
+        "image": "The Grudge 2 2006.png",
+        "year": "2006",
+        "Genres": "Horror",
+        "info": "Three interwoven stories about a terrible curse. A young woman encounters a malevolent supernatural force while searching for her missing sister in Tokyo; a mean high school prank goes horribly wrong; a woman with a deadly secret moves into a Chicago apartment building."
+    },
+    {
+        "id": 5,
+        "name": "Spirited Away 2001",
+        "category_id": 5,
+        "age": "5+",
+        "image": "The-Avengers-2012.png",
+        "year": "2001",
+        "Genres": "Adventure",
+        "info": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, a world where humans are changed into beasts."
+    },
+    {
+        "id": 5,
+        "name": "Your Name 2016",
+        "category_id": 5,
+        "age": "10+",
+        "image": "Your Name 2016.png",
+        "year": "2016",
+        "Genres": "Horror",
+        "info": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person."
+    },
+
+ 
+
+
+    {
+        "__comment": "T-World"
+    },
+    {
+        "id": 6,
+        "name": "Girl from Nowhere 2018",
+        "category_id": 6,
+        "age": "5+",
+        "image": "Girl from Nowhere 2018.png",
+        "year": "2018",
+        "Genres": "Thrillers",
+        "info": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn."
+    },
+    {
+        "id": 6,
+        "name": "Oh My Ghost 2018",
+        "category_id": 6,
+        "age": "5+",
+        "image": "The-Avengers-2012.png",
+        "year": "2018",
+        "Genres": "Comedies",
+        "info": "When a skilled but timid chef is possessed by a sassy spirit, her newfound confidence catches the eye of her longtime crush, a culinary hotshot."
+    },
+    {
+        "id": 6,
+        "name": "The Whole Truth 2021",
+        "category_id": 6,
+        "age": "13+",
+        "image": "The Whole Truth 2021.png",
+        "year": "2021",
+        "Genres": "Horror",
+        "info": "When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family."
+    },
+    {
+        "id": 6,
+        "name": "I Need Romance 2021",
+        "category_id": 6,
+        "age": "10+",
+        "image": "I Need Romance 2021.png",
+        "year": "2021",
+        "Genres": "Horror",
+        "info": "A workaholic who's lost interest in romance reunites with an old friend and gifted songwriter, who’s determined to restore her belief in love."
+    },
+
+    
+
+    {
+        "__comment": "Cartoon"
+    },
+    {
+        "id": 7,
+        "name": "Wish Dragon 2021",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Wish Dragon 2021.png",
+        "year": "2021",
+        "Genres": "Comedies",
+        "info": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities."
+    },
+    {
+        "id": 7,
+        "name": "Monster House 2006",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Monster House 2006.png",
+        "year": "2006",
+        "Genres": "Comedies",
+        "info": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own."
+    },
+    {
+        "id": 7,
+        "name": "Talking Tom and Friends 2014",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Talking Tom and Friends 2014.png",
+        "year": "2014",
+        "Genres": "Horror",
+        "info": "Full of funny one-liners and always ready for an adventure, a talking cat and his equally chatty animal cohorts set out to become famous."
+    },
+    {
+        "id": 7,
+        "name": "Motu Patlu: Kung Fu Kings 2014",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Motu Patlu: Kung Fu Kings 2014.png",
+        "year": "2014",
+        "Genres": "Horror",
+        "info": "When a noted but nefarious martial artist comes to town and insults its residents, the valiant Motu seeks training from an expert to defeat him."
+    }
+]

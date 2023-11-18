@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category": "Hollywood"
+    },
+    {
+        "id": 2,
+        "category": "Bollywood"
+    },
+    {
+        "id": 3,
+        "category": "K-World"
+    },
+    {
+        "id": 4,
+        "category": "C-World"
+    },
+    {
+        "id": 5,
+        "category": "J-World"
+    },
+    {
+        "id": 6,
+        "category": "T-World"
+    },
+    {
+        "id": 7,
+        "category": "Cartoon"
+    }
+]
